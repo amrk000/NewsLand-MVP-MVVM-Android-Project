@@ -48,7 +48,7 @@
 </ul>
         <br>
       <div align="center">
-  <a href="https://dl.dropbox.com/s/paz3ry2bw9zlwbe/NewsLand.apk">
+  <a href="https://dl.dropbox.com/s/gplvvy50sfu3fpl/NewsLand.apk">
     <img width="200px" src="https://user-images.githubusercontent.com/63168118/157979139-36dbcfe4-c82d-43b9-85d3-0e45eeba05d9.png"/>
   </a>
   </div>    
