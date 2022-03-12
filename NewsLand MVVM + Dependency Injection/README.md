@@ -1,4 +1,4 @@
-<h1><a href="">NewsLand Android Project</a> > MVVM</h1>
+<h1><a href="">NewsLand Android Project</a> > MVVM + Dependency Injection</h1>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/63168118/158036902-f9327886-1102-4eb0-96f7-6ebde6f1af37.png" />
 </div>
