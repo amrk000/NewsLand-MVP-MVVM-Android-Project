@@ -70,13 +70,13 @@
 <li>MVC (Skipped): No longer used as it's bad for android.</li>
 <li>MVP (Good):</li>
   <ul>
-    <li><a href="github.com">MVP Version</a></li>
-    <li><a href="github.com">MVP + DataManager Version</a></li>
+    <li><a href="https://github.com/amrk000/NewsLand-MVP-MVVM-Android-Project/tree/master/NewsLand%20MVP">MVP Version</a></li>
+    <li><a href="https://github.com/amrk000/NewsLand-MVP-MVVM-Android-Project/tree/master/NewsLand%20MVP%20%2B%20DataManager">MVP + DataManager Version</a></li>
   </ul>
   <li>MVVM (Recommended):</li>
   <ul>
-    <li><a href="github.com">MVVM Version</a></li>
-    <li><a href="github.com">MVVM + Dependency Injection Version</a></li>
+    <li><a href="https://github.com/amrk000/NewsLand-MVP-MVVM-Android-Project/tree/master/NewsLand%20MVVM">MVVM Version</a></li>
+    <li><a href="https://github.com/amrk000/NewsLand-MVP-MVVM-Android-Project/tree/master/NewsLand%20MVVM%20%2B%20Dependency%20Injection">MVVM + Dependency Injection Version</a></li>
   </ul>
 </ul>
 
