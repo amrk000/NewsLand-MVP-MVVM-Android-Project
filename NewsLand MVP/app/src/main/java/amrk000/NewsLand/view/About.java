@@ -41,7 +41,7 @@ public class About extends AppCompatActivity {
 
         binding.githubrepo.setOnClickListener((View v)->{
             Intent profilelink = new Intent(Intent.ACTION_VIEW);
-            profilelink.setData(Uri.parse("https://github.com/amrk000/NewsLand"));
+            profilelink.setData(Uri.parse("https://github.com/amrk000/NewsLand-MVP-MVVM-Android-Project"));
             startActivity(profilelink);
         });
 
