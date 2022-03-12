@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape
+        android:shape="rectangle"
+        android:thickness="90dp"
+        android:useLevel="true">
+        <solid android:color="@color/primary"/>
+    </shape>
+</clip>

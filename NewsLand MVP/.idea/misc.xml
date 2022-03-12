@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVP + DataManager/app/src/main/res/layout/activity_article_browser.xml" value="0.17027027027027028" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.378125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/actionbar_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/github_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/googleplay_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.378125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/ic_round_done_24.xml" value="0.378125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/logo.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/drawable/splash.xml" value="0.3828125" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/activity_article_browser.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/activity_settings.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/list_view_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/recycler_view_alldone_item.xml" value="0.5" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/recycler_view_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/recycler_view_loading_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/NewsLand MVVM/app/src/main/res/layout/recycler_view_news_item.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/app/src/main/res/layout/fragment_news_options.xml" value="0.5" />
+        <entry key="..\:/Users/amrak/Desktop/NewsLand/app/src/main/res/layout/recycler_view_item.xml" value="0.27239583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

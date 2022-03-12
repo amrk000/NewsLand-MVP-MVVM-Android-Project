@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countriesCodes">
+        <item></item>
+        <item>ae</item>
+        <item>au</item>
+        <item>ca</item>
+        <item>cn</item>
+        <item>de</item>
+        <item>eg</item>
+        <item>fr</item>
+        <item>gb</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>kr</item>
+        <item>ma</item>
+        <item>ru</item>
+        <item>sa</item>
+        <item>us</item>
+    </string-array>
+
+    <string-array name="countries">
+    <item>World Wide</item>
+    <item>United Arab Emirates</item>
+    <item>Australia</item>
+    <item>Canada</item>
+    <item>China</item>
+    <item>Germany</item>
+    <item>Egypt</item>
+    <item>France</item>
+    <item>United Kingdom</item>
+    <item>Italy</item>
+    <item>Japan</item>
+    <item>South Korea</item>
+    <item>Morocco</item>
+    <item>Russia</item>
+    <item>Saudi Arabia</item>
+    <item>United States</item>
+    </string-array>
+</resources>
