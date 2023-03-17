@@ -54,7 +54,7 @@
   </div>    
 <td>
         
-<td width="auto">
+<td width="40%">
 <div align="center"><video src="https://user-images.githubusercontent.com/63168118/158020353-eef7cc82-b5bb-4d77-bf26-16182b56f190.mp4"></div>
 </td>
         
